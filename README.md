@@ -11,3 +11,7 @@ sudo systemctl restart apache2
 ```
 sudo apt install libapache2-mod-php8.0
 ```
+
+```
+sudo apt-get install libapache2-mod-php
+```
